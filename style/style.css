@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.logo{
+    height: 35px;
+    width: auto;
+    margin-top: 25px;
+}
+.vso{
+    height: 20px;
+    vertical-align: middle;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+    
+}
+.vector-smart-object{
+    float: right;
+    margin-top: 25px;
+    
+}
+.main-nav{
+    float: right;
+    
+}
+header{
+    background: url(../img/header-bg.jpg);
+    height: 85vh;
+}
+
